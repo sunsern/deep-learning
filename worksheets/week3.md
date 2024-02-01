@@ -24,5 +24,3 @@ Complete the following UDL book problem:
 
 - 5.1, 5.2, 5.5, 5.6, 5.7
 - 6.1, 6.2, 6.3, 6.9, 6.10, 6.11
-
-
